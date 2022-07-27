@@ -8,6 +8,13 @@ public class PlayerBehaviour : MonoBehaviour
     void Start()
     {
         //Gia Bảo đã tới đây 
+
+
+       // Player Movement
+
+        //Gia Bảo đã tới đây
+
+
     }
 
     // Update is called once per frame
