@@ -7,7 +7,7 @@ public class PlayerBehaviour : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Gia Bảo đã tới đây
+        //Gia Bảo đã tới đây 
     }
 
     // Update is called once per frame
